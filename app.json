@@ -18,7 +18,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+<<<<<<< HEAD
       }
+=======
+      },
+      "package": "com.furkan.arslan123456.ToDoList"
+>>>>>>> 72d610b (Mevcut proje güncellendi)
     },
     "web": {
       "favicon": "./assets/favicon.png"

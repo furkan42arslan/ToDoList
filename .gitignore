@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 72d610b (Mevcut proje güncellendi)
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
 # dependencies
@@ -34,6 +37,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+<<<<<<< HEAD
 =======
 # OSX
 #
@@ -52,3 +56,5 @@ local.properties
 # Bundle artifacts
 *.jsbundle
 >>>>>>> ee4425a (MEvcut projeyi güncelledim)
+=======
+>>>>>>> 72d610b (Mevcut proje güncellendi)
